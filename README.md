@@ -77,7 +77,7 @@ python -m reginald.run --mode weekly
 ```
 
 *(Spy mode active by default in APP_ENV=mock or chaos.)*
-
+Spy Mode = local mock testing mode. No data leaves your system.
 ---
 
 ## 📁 Project Structure
